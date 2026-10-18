@@ -41,7 +41,7 @@
 <text x="472" y="102" xml:space="preserve"><tspan fill="#953800">OS: </tspan><tspan fill="#afb8c1">....................................... </tspan><tspan fill="#24292f">Fedora Linux</tspan></text>
 <text x="472" y="123" xml:space="preserve"><tspan fill="#953800">Host: </tspan><tspan fill="#afb8c1">........................................... </tspan><tspan fill="#24292f">Zendot</tspan></text>
 <text x="472" y="144" xml:space="preserve"><tspan fill="#953800">Role: </tspan><tspan fill="#afb8c1">................................ </tspan><tspan fill="#24292f">Software Engineer</tspan></text>
-<text x="472" y="165" xml:space="preserve"><tspan fill="#953800">IDE: </tspan><tspan fill="#afb8c1">............................. </tspan><tspan fill="#24292f">Codium, Intellej IDEA</tspan></text>
+<text x="472" y="165" xml:space="preserve"><tspan fill="#953800">IDE: </tspan><tspan fill="#afb8c1">............................. </tspan><tspan fill="#24292f">Codium, Intellij IDEA</tspan></text>
 <text x="472" y="207" xml:space="preserve"><tspan fill="#953800">Languages.Programming: </tspan><tspan fill="#afb8c1">................ </tspan><tspan fill="#24292f">Java, TypeScript</tspan></text>
 <text x="472" y="228" xml:space="preserve"><tspan fill="#953800">Languages.Spoken: </tspan><tspan fill="#afb8c1">....................... </tspan><tspan fill="#24292f">English, Hindi</tspan></text>
 <text x="472" y="249" xml:space="preserve"><tspan fill="#953800">Hobbies: </tspan><tspan fill="#afb8c1">................... </tspan><tspan fill="#24292f">Reading, Trekking, Swimming</tspan></text>
@@ -51,5 +51,5 @@
 <text x="472" y="375" xml:space="preserve"><tspan fill="#0969da">─ GitHub Stats </tspan><tspan fill="#afb8c1">─────────────────────────────────────────</tspan></text>
 <text x="472" y="396" xml:space="preserve"><tspan fill="#953800">Repos: </tspan><tspan fill="#afb8c1">... </tspan><tspan fill="#24292f">31 {Contributed: 0}</tspan><tspan fill="#afb8c1"> | </tspan><tspan fill="#953800">Stars: </tspan><tspan fill="#afb8c1">.............. </tspan><tspan fill="#24292f">0</tspan></text>
 <text x="472" y="417" xml:space="preserve"><tspan fill="#953800">Commits: </tspan><tspan fill="#afb8c1">............... </tspan><tspan fill="#24292f">1,389</tspan><tspan fill="#afb8c1"> | </tspan><tspan fill="#953800">Followers: </tspan><tspan fill="#afb8c1">.......... </tspan><tspan fill="#24292f">5</tspan></text>
-<text x="472" y="438" xml:space="preserve"><tspan fill="#953800">Lines of Code: </tspan><tspan fill="#24292f">582,272</tspan><tspan fill="#afb8c1"> ( </tspan><tspan fill="#1a7f37">594,106++</tspan><tspan fill="#afb8c1">, </tspan><tspan fill="#cf222e">11,834--</tspan><tspan fill="#afb8c1"> )</tspan></text>
+<text x="472" y="438" xml:space="preserve"><tspan fill="#953800">Lines of Code: </tspan><tspan fill="#24292f">582,771</tspan><tspan fill="#afb8c1"> ( </tspan><tspan fill="#1a7f37">594,605++</tspan><tspan fill="#afb8c1">, </tspan><tspan fill="#cf222e">11,834--</tspan><tspan fill="#afb8c1"> )</tspan></text>
 </svg>
