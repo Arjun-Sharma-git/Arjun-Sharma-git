@@ -7,6 +7,7 @@ profileData = {
     "programmingLanguages": "Java, TypeScript",
     "spokenLanguages": "English, Hindi",
     "hobbies": "Reading, Trekking, Swimming",
+    "website": "arjun-sharma-git.github.io",
     "email": "arjunsharma1620@gmail.com",
     "linkedIn": "https://www.linkedin.com/in/arjunsharma16/",
 }

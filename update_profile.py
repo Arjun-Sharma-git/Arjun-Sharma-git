@@ -246,7 +246,8 @@ def infoLines(profileStats, userName):
         optionalKeyValue("Hobbies", profileData["hobbies"]),
         [],
     ]
-    contactRows = [row for row in (optionalKeyValue("Email", profileData["email"]),
+    contactRows = [row for row in (optionalKeyValue("Website", profileData.get("website")),
+                                   optionalKeyValue("Email", profileData["email"]),
                                    optionalKeyValue("LinkedIn", profileData["linkedIn"])) if row]
     if contactRows:
         lines.append(sectionRule("Contact"))
